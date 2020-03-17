@@ -12,7 +12,7 @@ A React application mocking a shoe store, built using Redux and Redux Saga for t
 - [reactotron](https://github.com/infinitered/reactotron)
 - [styled-components](https://styled-components.com/)
 
-## [See it live here!](https://rocketshoesreact.netlify.com/)
+### [See it live here!](https://rocketshoesreact.netlify.com/)
 
 ## Preview
 ![preview](https://raw.githubusercontent.com/PooWoox/rocketshoes-react/master/rocketshoes_prev.gif)
