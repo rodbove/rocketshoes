@@ -1,5 +1,5 @@
 # Rocketshoes
-A React application mocking a shoe store, built using Redux and Redux Saga for the functionalities.
+A React application mocking a shoe store, built using Redux, Redux Saga and React Hooks for the functionalities/syntax.
 
 ## Libs used
 - [react](https://reactjs.org/)
